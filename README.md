@@ -1,7 +1,7 @@
 # Web 平台区块链开发
 
 ---
-###### 作者：熊伟伦（Azard）
+###### 作者：熊伟伦（Azard）[GitHub](https://github.com/Azard) [知乎](https://www.zhihu.com/people/xiong-wei-lun) [微博](https://weibo.com/azard5) 
 
 ### 本书面向的读者
 
